@@ -1,0 +1,1 @@
+import{j as e}from"./index-f442d8e5.js";function i(){return e.jsx(e.Fragment,{children:e.jsx(e.Fragment,{children:e.jsx("div",{className:"loginBody",children:e.jsx("div",{className:"",style:{width:"100vw",height:400,textAlign:"center",marginTop:100},children:e.jsx("h2",{children:"News"})})})})})}export{i as default};
